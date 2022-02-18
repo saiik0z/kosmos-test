@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>342379214694-s0c41am6bvhckf79mbrvrl0njjj32f6j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.342379214694-s0c41am6bvhckf79mbrvrl0njjj32f6j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvvnJL-tR4zEpQGgeN2j0pN7yWpqTJgNw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>342379214694</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.kosmostest</string>
+	<key>PROJECT_ID</key>
+	<string>newtestkosmosdigit</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newtestkosmosdigit.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:342379214694:ios:ee719b441acc650100baa7</string>
+</dict>
+</plist>

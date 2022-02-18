@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "342379214694",
+    "project_id": "newtestkosmosdigit",
+    "storage_bucket": "newtestkosmosdigit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342379214694:android:b35b06616f54d8dd00baa7",
+        "android_client_info": {
+          "package_name": "com.flutterflow.kosmostest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342379214694-umfsrp3mct1kvqueqj8ra5qdoqibpj4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0e3lM-g_3cfLIFnA8EqhNN7jGDBbXdkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342379214694-umfsrp3mct1kvqueqj8ra5qdoqibpj4u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "342379214694-s0c41am6bvhckf79mbrvrl0njjj32f6j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.kosmostest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
